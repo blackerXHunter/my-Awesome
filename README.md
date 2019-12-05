@@ -33,6 +33,8 @@
 
 ## C# # 
 
+- [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) - Git extension for Unity Package Manager (UPM)
+- [UnityAssetDanshari](https://github.com/akof1314/UnityAssetDanshari) - Unity Asset Danshari 资源断舍离
 - [Tork](https://github.com/adrenak/Tork) - Vehicle system for Unity
 - [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 - [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting) - Lighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights
@@ -91,6 +93,21 @@
 
 ## C++ 
 
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
+- [DirectXMath](https://github.com/microsoft/DirectXMath) - DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
+- [DirectXTex](https://github.com/microsoft/DirectXTex) - DirectXTex texture processing library
+- [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+- [renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
+- [DirectXTK12](https://github.com/microsoft/DirectXTK12) - The DirectX Tool Kit (aka DirectXTK12) is a collection of helper classes for writing DirectX 12 code in C++
+- [KlayGE](https://github.com/gongminmin/KlayGE) - KlayGE is a cross-platform open source game engine with plugin-based architecture.
+- [DirectX11-With-Windows-SDK](https://github.com/MKXJun/DirectX11-With-Windows-SDK) - 现代DX11系列教程：使用Windows SDK(C++)开发Direct3D 11.x
+- [DirectXTK](https://github.com/microsoft/DirectXTK) - The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++
+- [d3d12book](https://github.com/d3dcoder/d3d12book) - Sample code for the book "Introduction to 3D Game Programming with DirectX 12"
+- [GRSD3D12Sample](https://github.com/GamebabyRockSun/GRSD3D12Sample) - Gamebaby Rock Sun's D3D12 C-Style Sample for beginner
+- [BlendShapeBuilder](https://github.com/unity3d-jp/BlendShapeBuilder) - tweak vertices and generate blend shapes in Unity
+- [NormalPainter](https://github.com/unity3d-jp/NormalPainter) - vertex normal editor for Unity
+- [FrameCapturer](https://github.com/unity3d-jp/FrameCapturer) - export framebuffer, GBuffer or any RenderTextures from Unity to file. supported format: png, exr, gif, webm, mp4
+- [RaytracedHardShadow](https://github.com/unity3d-jp/RaytracedHardShadow) - DXR based raytraced hard shadow for Unity
 - [ToyPathTracer](https://github.com/aras-p/ToyPathTracer) - Toy path tracer for my own learning purposes (CPU/GPU, C++/C#, Win/Mac/Wasm, DX11/Metal, also Unity)
 - [Awesome-Game-Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources
 - [RenderLab](https://github.com/Ubpa/RenderLab) - App of RTR, PTR and Editor
@@ -119,6 +136,7 @@
 
 ## HTML 
 
+- [IGP-DirectX12-Chinese](https://github.com/LinkClinton/IGP-DirectX12-Chinese) - Introduction to 3D Game Programming with DirectX 12 Chinese Translation
 - [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [make](https://github.com/phodal/make) - :book::book::book::book::book: 写给软件工程师看的硬件编程指南
 - [Unity-File-Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - Enhanced debug logging for Unity, with JSON/CSV export and HTML viewer.
@@ -129,6 +147,8 @@
 
 ## JavaScript 
 
+- [GCanvas](https://github.com/alibaba/GCanvas) - A lightweight cross-platform graphics rendering engine. (超轻量的跨平台图形引擎) https://alibaba.github.io/GCanvas
+- [evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 - [Programming-Alpha-To-Omega](https://github.com/justjavac/Programming-Alpha-To-Omega) - 从零开始学编程 系列汇总（从α到Ω）
 
 ## Lua 
@@ -137,6 +157,9 @@
 
 ## Others 
 
+- [awesome-dxr](https://github.com/rams3s/awesome-dxr) - A curated list of awesome DirectX Raytracing (DXR) resources.
+- [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) - Awesome D3D12 ecosystem
+- [awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github) - A categorized collection of awesome Unity open source on GitHub (800+)
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor: 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [fun-with-graphics](https://github.com/FancyVin/fun-with-graphics) - 这里整理了图形学相关的高校课程、书籍、教程、文章、博客、资源、开源项目。
@@ -177,6 +200,7 @@
 
 ## ShaderLab 
 
+- [UnityChanToonShaderVer2_Project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) - UnityChanToonShaderVer2 Project / v.2.0.7 Release
 - [Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders) - [Discontinued] Alternative Unity shaders made by synqark
 - [Unity_Shaders_Book](https://github.com/candycat1992/Unity_Shaders_Book) - :book: 书籍《Unity Shader入门精要》源代码
 - [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader) - :boat: 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders
